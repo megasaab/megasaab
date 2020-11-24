@@ -3,11 +3,9 @@
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning FrontEnd
 - 💬 Ask me anything about Frontend
-- 📫 How to reach me:azhg.sabyrzhan@gmail.com
 - ⚡ Fun fact: I did not have special education for it
-
-- Connect with me
-- <a href="https://www.instagram.com/_megasaab_/"><img src="https://img.shields.io/badge/instagram%20@_megasaab_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+- 📫 How to reach me:azhg.sabyrzhan@gmail.com
+<a href="https://www.instagram.com/_megasaab_/"><img src="https://img.shields.io/badge/instagram%20@_megasaab_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
 <img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
