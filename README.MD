@@ -41,9 +41,6 @@
 
 <img src="https://github.com/megasaab/megasaab/blob/master/assets/repo.png?raw=true">
 
-![Repo 1](https://github-readme-stats.vercel.app/api/pin/?username=megasaab&repo=sprintnote&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-![Repo 2](https://github-readme-stats.vercel.app/api/pin/?username=megasaab&repo=covid-chatbot&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2)
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=megasaab" id="counter">
 </p>
