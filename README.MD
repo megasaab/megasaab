@@ -6,7 +6,7 @@
 - 📫 How to reach me:azhg.sabyrzhan@gmail.com
 - ⚡ Fun fact: I did not have special education for it
 
-
+#Connect with me
 - <a href="https://www.instagram.com/_megasaab_/"><img src="https://img.shields.io/badge/instagram%20@_megasaab_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
