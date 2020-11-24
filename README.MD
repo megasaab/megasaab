@@ -39,8 +39,6 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=megasaab&theme=radical&title_color=8E2DE2&text_color=fff)
 
-<img src="https://github.com/megasaab/megasaab/blob/master/assets/repo.png?raw=true">
-
 <p align="center">
 <img src="https://visitor-badge.laobi.icu/badge?page_id=megasaab" id="counter">
 </p>
