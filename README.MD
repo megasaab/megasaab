@@ -1,4 +1,3 @@
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/about.png?raw=true"/>
 
 - 🔭 I’m currently working on Angular
 - 🌱 I’m currently learning FrontEnd
@@ -9,7 +8,6 @@
 <a href="https://www.instagram.com/_megasaab_/"><img src="https://img.shields.io/badge/instagram%20@_megasaab_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/skills.png?raw=true">
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
 ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=8E2DE2)
@@ -32,7 +30,6 @@
 ![git](https://img.shields.io/badge/-git-grey?style=for-the-badge&logo=git&logoColor=white&labelColor=8E2DE2)
 
 
-<img align="center" src="https://github.com/saviomartin/saviomartin/blob/master/assets/git.png?raw=true"/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=megasaab&show_icons=true&theme=radical&title_color=8E2DE2&text_color=fff&icon_color=8E2DE2">
 
