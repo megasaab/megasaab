@@ -1,8 +1,6 @@
 
 - 🔭 I’m currently working on Angular
-- 🌱 I’m currently learning FrontEnd
 - 💬 Ask me anything about Frontend
-- ⚡ Fun fact: I did not have special education for it
 - 📫 How to reach me:azhg.sabyrzhan@gmail.com
 - <img align="center" src="https://www.codewars.com/users/megasaab/badges/small">
 <a href="https://www.instagram.com/_megasaab_/"><img src="https://img.shields.io/badge/instagram%20@_megasaab_-DD2476?style=for-the-badge&logo=instagram&logoColor=white"/></a>
